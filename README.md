@@ -1,0 +1,1 @@
+The "React Business Card" project is my first venture into React.js development. With this project, I am diving into the world of React and building a digital business card from scratch. It serves as an introductory project where I can learn and practice React fundamentals.
